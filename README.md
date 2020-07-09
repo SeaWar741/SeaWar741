@@ -1,5 +1,7 @@
 Greetings,
+<br>
 I´m a computer science student at Tec de Monterrey 👨‍🎓. I am into machine learning 🤖, simulations⚙, web apps💻 and any challenge🛠.
+<br>
 Feel free to view my repositories and contact me 📧
 <!--
 **SeaWar741/SeaWar741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
