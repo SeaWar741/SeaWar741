@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Science Bitch](https://media1.giphy.com/media/RyXVu4ZW454IM/200.gif)
+
 <!--
 **SeaWar741/SeaWar741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
