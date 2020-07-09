@@ -1,4 +1,3 @@
-<img src="https://thumbs.gfycat.com/JointAdorableFirebelliedtoad-max-1mb.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%" height="auto" />
 <img src="https://media1.giphy.com/media/3knKct3fGqxhK/giphy.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%" height="auto" />
 
 
