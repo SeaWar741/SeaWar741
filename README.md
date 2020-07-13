@@ -3,7 +3,9 @@
 # **Welcome 👋**
 Greetings,
 <br>
-I´m a computer science student at Tec de Monterrey 👨‍🎓. I am into ....
+I´m a computer science student at Tec de Monterrey 👨‍🎓
+<br>
+I am into ....
 - 🤖 Machine Learning 
 - 🕶 Entrepreneurship
 - ⚙ Simulations
