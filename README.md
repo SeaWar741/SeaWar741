@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/gMDuoXP.png)
+![Banner](https://i.imgur.com/XufX8SM.png)
 Greetings,
 <br>
 I´m a computer science student at Tec de Monterrey 👨‍🎓. I am into machine learning 🤖, simulations⚙, web apps💻 and any challenge🛠.
