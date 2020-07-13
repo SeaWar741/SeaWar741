@@ -5,7 +5,8 @@ Greetings,
 <br>
 I´m a computer science student at Tec de Monterrey 👨‍🎓
 <br>
-I am into ....
+<br>
+***I am into ....***
 - 🤖 Machine Learning 
 - 🕶 Entrepreneurship
 - ⚙ Simulations
