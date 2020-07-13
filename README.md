@@ -1,4 +1,7 @@
+# **Welcome 👋**
+
 ![Banner](https://i.imgur.com/p3BW7v1.png)
+
 Greetings,
 <br>
 I´m a computer science student at Tec de Monterrey 👨‍🎓. I am into machine learning 🤖, simulations⚙, web apps💻 and any challenge🛠.
