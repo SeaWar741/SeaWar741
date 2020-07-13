@@ -1,7 +1,6 @@
 ![Banner](https://i.imgur.com/p3BW7v1.png)
 
 # **Welcome 👋**
-Greetings,
 <br>
 I´m a computer science student at Tec de Monterrey 👨‍🎓
 <br>
