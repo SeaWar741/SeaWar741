@@ -3,7 +3,8 @@
 # **Welcome 👋**
 Greetings,
 <br>
-I´m a computer science student at Tec de Monterrey 👨‍🎓
+Full Stack and machine learning developer
+BS Computer Science with specialization in data science and AI👨‍🎓
 <br>
 <br>
 ***I am into ....***
