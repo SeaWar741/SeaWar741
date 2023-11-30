@@ -3,7 +3,7 @@
 # **Welcome 👋**
 Greetings,
 <br>
-Full Stack and machine learning developer
+I'm a full stack and machine learning developer
 BS Computer Science with specialization in data science and AI👨‍🎓
 <br>
 <br>
